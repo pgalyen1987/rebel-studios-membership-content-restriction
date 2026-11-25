@@ -1,0 +1,7 @@
+.wcinv-header{display:flex;align-items:center;justify-content:space-between;margin:12px 0 4px}
+.wcinv-header h1{margin:0;padding:0}
+.wcinv-upgrade{margin-left:auto}
+.wcinv-pro-pill{display:inline-block;font-size:11px;line-height:1;font-weight:600;color:#fff;background:#a4286a;border-radius:9px;padding:3px 7px;text-decoration:none;vertical-align:middle}
+.wcinv-pro-pill:hover{color:#fff;opacity:.9}
+.wcinv-section-pro{margin-left:6px}
+.wcinv-wrap .form-table th{width:220px}
